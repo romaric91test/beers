@@ -1,0 +1,28 @@
+html{
+    background-color: gray;
+}
+
+.card-horizontal {
+  display: flex;
+  flex: 1 1 auto;
+  margin-right: 1%;
+  margin-left: 1%;
+}
+
+.card {
+  width:100%;
+  margin-right: 10%;
+  margin-left: 10%;
+  margin-bottom: 1%;
+  margin-top: 1%;
+}
+img {
+    margin-top: auto;
+    margin-bottom: auto;
+    margin-right: auto;
+    width:100px; /* you can use % */
+    height: auto;
+    position: page;
+    display: block;
+}
+
